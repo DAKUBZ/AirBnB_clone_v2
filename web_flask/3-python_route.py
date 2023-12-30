@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 from flask import Flask
-"""class Flask"""
+"""
+class Flask
+"""
 
 
 app = Flask(__name__)
